@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33417227-1b79-4088-9dea-ad8f9edb9a19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/GiaoDienKiemTra.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tkinter1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tkinter10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tkinter11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tkinter2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tkinter3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tkinter4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tkinter5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tkinter6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tkinter7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tkinter8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tkinter9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Turtle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Turtle2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Turtle3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Turtle4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Turtle5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Turtle.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
