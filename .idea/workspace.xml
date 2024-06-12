@@ -5,37 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33417227-1b79-4088-9dea-ad8f9edb9a19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BanVeVaoNgayNaoTrongTuan.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChuongTrinhDuongThang.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoiThapPhanRaSoNhiPhan.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GPTB2Dang-ax2+bx+c=0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InBangCuuChuong.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InBangCuuChuong2-9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InChuVivaDienTichHinhTron.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InChuVivaDienTichhinhChuNhat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InGiaTriTB2So.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InGiaTriTB3So.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InPhanNguyenVaPhanDuKhiChuaCho6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InRaCachDocCuaSoNhap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InSoChanTu3-20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InTongvaTichHaiSo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KiemTra1ThangCoBaoNhieuNgay.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LietKexLaSonguyenyLaSoThuc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NhapSoDuongTaoThanhTamGiac.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NhapSoTuNhienVaTinhTheoCongThuc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NhapTuoiVaKiemTraDoTuoi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NhapaVabvaMotKyTuch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PTB2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoNguyenTolonNhatLaUocChung.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TinhDaySoTheoCongThucNNhapTuBanPhim.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TinhDienTichHinhTronVoiBanKinhDuocNhapTuBanPhim.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TinhTongTien.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tinhn+2n+3nVaInRa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TongBinhPhuong2So.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TínhTheoCongThucChoTruoc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VietCacThuTucThucHienCacCongViecDaCho.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XemDeBai.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YNghiaNgayThangNam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GiaoDienKiemTra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Turtle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Turtle2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Turtle3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Turtle4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Turtle5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
